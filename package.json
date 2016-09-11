@@ -1,0 +1,15 @@
+{
+  "name": "workflows",
+  "version": "0.1.0",
+  "description": "test",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "M Antczak",
+  "license": "MIT"
+}
